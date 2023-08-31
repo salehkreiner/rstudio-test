@@ -1,1 +1,2 @@
 Line 1: ABC
+Line 2: XYZ
